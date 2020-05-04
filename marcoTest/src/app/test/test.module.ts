@@ -7,6 +7,7 @@ import { TestComponent } from './test.component';
   ],
   imports: [
   ],
+  exports: [ TestComponent],
   providers: [],
 
 })
